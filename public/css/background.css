@@ -1,0 +1,11 @@
+.blur-background {
+    position: relative;
+    z-index: 1;
+    backdrop-filter: blur(5px);
+    background-color: rgba(237, 237, 237, 0.9);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

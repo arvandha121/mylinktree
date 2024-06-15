@@ -1,0 +1,28 @@
+.filter-buttons {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.filter-buttons button {
+    padding: 12px 25px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.filter-buttons button:hover {
+    background-color: #bebebe; /* Change background color on hover */
+}
+
+.filter-buttons button.active {
+    background-color: #007bff;
+    color: #ffffff;
+}
+
+#sosmed-content,
+#donation-content,
+#email-content {
+    display: none;
+}

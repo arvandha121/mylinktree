@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #000000;
+}
+
+.list-group-item a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.custom-btn {
+    width: 100%;
+}

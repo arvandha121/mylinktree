@@ -1,0 +1,9 @@
+.profile-img {
+    display: block;
+    margin: 0 auto;
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
