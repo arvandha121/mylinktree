@@ -15,7 +15,7 @@ Demo website mylinktree [Klik Disini](https://arvandhaa.my.id/).
 
 1. clone this repo to your local machine: `https://github.com/arvandha121/mylinktree.git`
 2. delete `.git` after you clone this project. how to see it via "File Explorer", enter the options menu and change it to "show hidden files"
-3. copy `.example.env` to `.env` file: `cp .example.env .env`
+3. You can type copy this `copy .env.example .env` on terminal
 4. create a new database and add the database credentials to your `.env` file
 5. run `composer install` or `composer update`
 6. run `npm install && npm run dev`
